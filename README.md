@@ -2,7 +2,7 @@
 
 # Kruger Star todoList
 
->Proyecto de Todolist para el uso de hooks de use state.
+>Proyecto de emoji para el uso de hooks de use ref.
 
 <img src='./src/assets/playground.png' with='200px'>
 
@@ -13,18 +13,18 @@
 - JavaScript
 - React.js 18
 - HTML + CSS
-- react-bootstrat y Boostrap
+- 
 
 ## Live Demo
 
-[live demo link](https://kstodo.vercel.app)
+[live demo link](https://ksemojis.vercel.app/)
 
 
 ## Run it locally
 
 ### Setup
 
-- Clone this repo using ` https://github.com/Edwin9226/kstodo.git` 
+- Clone this repo using `https://github.com/Edwin9226/ksemojis.git` 
 
 ### Command
 - `crear una carpeta react en documentos donde clonaremos nuestro proyecto`
@@ -36,7 +36,6 @@
 
 ## Author
 
-Clone this repo using `git clone https://github.com/Edwin9226/kstodo`
 👤 **Edwin Miguel Pinchao Mueses**
 
 - GitHub: [@Edwin9226](https://github.com/Edwin9226)
