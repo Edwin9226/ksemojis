@@ -1,10 +1,17 @@
 
+import { useEffect, useState } from 'react';
 import './App.css';
+import EmojiPickerInput from './components/emojis/EmojiPickerInput';
+
 
 function App() {
+
+
   return (
-    <div className="App">
-      <h1>Emojis</h1>
+    <div className="container">
+      
+     <EmojiPickerInput/>
+   
     </div>
   );
 }
