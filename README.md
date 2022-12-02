@@ -52,6 +52,6 @@ Give a ⭐ if you like this project!
 
 This project is [MIT](./MIT.md) licensed.
 
-## enlace de los proyectos del creador de contenidos
+## Credits enlace de proyectos creador de contenidos
 
 [live de Youtube Creador de contenidos](https://www.youtube.com/watch?v=oT-feDPuJmk)
